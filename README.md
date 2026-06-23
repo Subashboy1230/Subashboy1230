@@ -2,6 +2,8 @@
 
 Chief of Staff and Product Lead at [SigIQ.ai](https://www.sigiq.ai). Building [EverTutor](https://www.sigiq.ai), a voice-first multimodal AI tutor for K-12. Across 5 countries in 7 months. $9.5M seed in 2025.
 
+I also built our AI-native GTM stack from zero: HubSpot, Apollo, signal-based outbound across LinkedIn, IRL events, founder dinners, and cold email. AI workflows handle lead routing, scoring, enrichment, sequencing, and response handling. Conference field strategy across ASU GSV, ATLIS, IEI, NCE, Atlas.
+
 5x 0 to 1 builder across AI ed-tech, fintech, and B2B SaaS. Previously founding PM at Thinkverse (30+ schools, 15,000+ students). Founder of [APMC](https://www.linkedin.com/company/aspiring-product-managers-club/) (1,200+ PMs at Northeastern).
 
 San Francisco Bay Area. Working from Berkeley.
@@ -14,6 +16,8 @@ San Francisco Bay Area. Working from Berkeley.
 
 ### What I write and talk about
 
+- AI-native GTM systems and signal-based outbound (HubSpot, Apollo, AI workflows)
+- IRL GTM: conferences, founder dinners, field events, demo nights
 - Voice-first AI tutoring and 1:1 AI tutors for K-12
 - 0 to 1 founding-PM playbooks
 - Chief of Staff at seed-stage AI startups
@@ -43,6 +47,6 @@ San Francisco Bay Area. Working from Berkeley.
 
 ### Open to
 
-Advisory conversations on AI in education. Podcast appearances. Speaking on voice-first AI, K-12 ed-tech, or sales-to-product transitions. Connecting with Bay Area builders.
+Advisory conversations on AI in education and AI-native GTM. Podcast appearances. Speaking on voice-first AI, AI-native GTM systems, IRL GTM at conferences, K-12 ed-tech, or sales-to-product transitions. Connecting with Bay Area builders.
 
-If you're building in AI and education, breaking into PM, or between sales and product, let's talk.
+If you're building in AI and education, AI-native GTM, voice-first AI, breaking into PM, or between sales and product, let's talk.
